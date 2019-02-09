@@ -25,7 +25,7 @@ int main(int argc, char **argv)
 
 	uint64_t col_int = strtoull(argv[1], NULL, 10);
 	uint32_t step_count = 0;
-	uint64_t rem = 0;
+	uint8_t rem = 0;
 
 	while (col_int > 1) {
 		step_count++;
