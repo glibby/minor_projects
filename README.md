@@ -13,6 +13,13 @@ Completed Code Bits:
 To-Do Code Bits:
 	- Create a progress bar
 
+## C++
+
+Completed Code Bits:
+	- N/A
+
+To-Do Code Bits:
+	- Post-fix calculator?
 
 ## Python
 
@@ -21,11 +28,3 @@ Completed Code Bits:
 
 To-Do Code Bits:
 	- Graphical 8-ball
-
-## Java
-
-Completed Code Bits:
-	- N/A
-
-To-Do Code Bits:
-	- Television set class
