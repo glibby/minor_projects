@@ -28,3 +28,11 @@ Completed Code Bits:
 
 To-Do Code Bits:
 	- Graphical 8-ball
+
+## Go
+
+Completed Code Bits:
+	- Hello world
+
+To-Do Code Bits:
+	- Not sure I want to do anything more
