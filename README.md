@@ -4,35 +4,35 @@ Languages are listed below in order of how much I actually enjoy writing them.
 
 ## C
 
-Completed Code Bits:
-	- Hello World (of course)
-	- Collatz Conjecture
-	- FizzBuzz
-	- String-Reverse
+######Completed Code Bits:
+	* Hello World (of course)
+	* Collatz Conjecture
+	* FizzBuzz
+	* String-Reverse
 
-To-Do Code Bits:
-	- Create a progress bar
+######To-Do Code Bits:
+	* Create a progress bar
 
 ## C++
 
-Completed Code Bits:
-	- N/A
+######Completed Code Bits:
+	* N/A
 
-To-Do Code Bits:
-	- Post-fix calculator?
+######To-Do Code Bits:
+	* Post-fix calculator?
 
 ## Python
 
-Completed Code Bits:
-	- N/A
+######Completed Code Bits:
+	* N/A
 
-To-Do Code Bits:
-	- Graphical 8-ball
+######To-Do Code Bits:
+	* Graphical 8-ball
 
 ## Go
 
-Completed Code Bits:
-	- Hello world
+######Completed Code Bits:
+	* Hello world
 
-To-Do Code Bits:
-	- Not sure I want to do anything more
+######To-Do Code Bits:
+	* Not sure I want to do anything more
